@@ -1,0 +1,26 @@
+.nav{
+    border: 2px solid rgba(179, 175, 175, 0.733);
+    
+}
+#side {
+    border: none;
+    font-size: 13px;
+    
+}
+.card {
+width: 8rem;
+
+box-sizing: border-box;
+}
+
+div #capfont {
+    font-size: 16px;
+
+}
+
+.container {
+    border: 2px solid black;
+    width: 200px;
+    height: 200;
+    background-color: gray;
+}
